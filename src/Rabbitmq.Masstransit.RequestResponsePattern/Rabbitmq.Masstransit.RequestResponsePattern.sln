@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rabbitmq.Masstransit.RequestResponsePattern.Consumer", "Rabbitmq.Masstransit.RequestResponsePattern.Consumer\Rabbitmq.Masstransit.RequestResponsePattern.Consumer.csproj", "{A29BD8F0-8C84-4FBC-B476-C9C6F27E0D14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rabbitmq.Masstransit.RequestResponsePattern.Publisher", "Rabbitmq.Masstransit.RequestResponsePattern.Publisher\Rabbitmq.Masstransit.RequestResponsePattern.Publisher.csproj", "{CDF977E6-94E8-40F1-A9FE-E815AFF57FCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rabbitmq.Masstransit.RequestResponsePattern.Shared", "Rabbitmq.Masstransit.RequestResponsePattern.Shared\Rabbitmq.Masstransit.RequestResponsePattern.Shared.csproj", "{CA51E8A1-1C96-4CC9-A558-4CA21D844329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A29BD8F0-8C84-4FBC-B476-C9C6F27E0D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29BD8F0-8C84-4FBC-B476-C9C6F27E0D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29BD8F0-8C84-4FBC-B476-C9C6F27E0D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29BD8F0-8C84-4FBC-B476-C9C6F27E0D14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDF977E6-94E8-40F1-A9FE-E815AFF57FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF977E6-94E8-40F1-A9FE-E815AFF57FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF977E6-94E8-40F1-A9FE-E815AFF57FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF977E6-94E8-40F1-A9FE-E815AFF57FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA51E8A1-1C96-4CC9-A558-4CA21D844329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA51E8A1-1C96-4CC9-A558-4CA21D844329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA51E8A1-1C96-4CC9-A558-4CA21D844329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA51E8A1-1C96-4CC9-A558-4CA21D844329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
